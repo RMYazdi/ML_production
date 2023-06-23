@@ -9,3 +9,5 @@ https://equatorial-sternum-35b.notion.site/ML-Topics-b1ae86eda5c54b02bb22ad751df
 
 Example of ML model deployment in cloud https://www.datacamp.com/tutorial/tutorial-machine-learning-pipelines-mlops-deployment
 
+Full Stack deep learnin
+https://fall2019.fullstackdeeplearning.com/
