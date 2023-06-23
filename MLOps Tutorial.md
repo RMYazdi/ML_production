@@ -11,3 +11,5 @@ Example of ML model deployment in cloud https://www.datacamp.com/tutorial/tutori
 
 Full Stack deep learnin
 https://fall2019.fullstackdeeplearning.com/
+
+https://github.com/newTendermint
